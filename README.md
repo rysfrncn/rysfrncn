@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @rysfrncn
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Francine
 - 🌱 I’m currently learning C++
-- 📫 Reach me via Instagram @rysfrncn
+- 📫 Reach me via Instagram/Twitter @rysfrncn
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- 👩‍💻 Debugging is my meditation
 
 <!---
 rysfrncn/rysfrncn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
